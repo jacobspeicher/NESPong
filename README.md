@@ -8,6 +8,6 @@ The [nesasm](https://github.com/camsaul/nesasm) compiler was used to compile pon
 I recommend using the [FCEUXD SP NES emulator](https://www.romhacking.net/utilities/256/). It includes a bunch of features to
 see whats going on in the registers and graphics nametables and all that jazz.
 
--NOTE- FCEUXD is Windows only. NEStopia is a viable alternative for Mac. I used
+-NOTE- FCEUXD is Windows only. [NEStopia](https://www.emulator-zone.com/nes/nestopia) is a viable alternative for Mac. I used
 Wine + FCEUXD to develop, but it did result in some stuttering when playing the
 game.
